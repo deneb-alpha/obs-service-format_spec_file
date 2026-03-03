@@ -544,6 +544,8 @@ LZMA-SDK-9.22	LZMA-SDK-9.22
 Latex2e	Latex2e
 Latex2e-translated-notice	Latex2e-translated-notice
 Leptonica	Leptonica
+LicenseRef-SUSE-NonFree	NonFree
+LicenseRef-SUSE-NonFree	SUSE-NonFree
 LiLiQ-P-1.1	LiLiQ-P-1.1
 LiLiQ-R-1.1	LiLiQ-R-1.1
 LiLiQ-Rplus-1.1	LiLiQ-Rplus-1.1
@@ -635,8 +637,6 @@ NetCDF	NetCDF
 NetCDF	SUSE-NetCDF
 Newsletr	Newsletr
 Nokia	Nokia
-NonFree	NonFree licenses
-NonFree	SUSE-NonFree
 Noweb	Noweb
 O-UDA-1.0	O-UDA-1.0
 OAR	OAR
